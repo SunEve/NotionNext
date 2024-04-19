@@ -11,7 +11,7 @@ const Footer = ({ title }) => {
         <footer
             className='relative z-10 dark:bg-gray-800 flex-shrink-0 justify-center text-center m-auto w-full leading-6 text-sm p-6 bg-white dark:text-gray-400'
         >
-
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6149841852383933"crossorigin="anonymous"></script>
             <span>
                 <DarkModeButton />
 
